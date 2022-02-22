@@ -1,16 +1,13 @@
 ### Hi there 👋
+# Hi! I'am a Developer!
+```javascript
+var info = { 
+    name: "누워서떡먹기",
+    language: "NodeJS",
+    sublanguage: "Html/CSS",
+     // (HTML and CSS are also programming languages.)
+    contact: "Discord:누워서떡먹기#5883, Mail:yiu7490@gmail.com",
+    aboutme: "I'm an ordinary student developer!"
+}
+```
 
-<!--
-**sdsuaser7443/sdsuaser7443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
