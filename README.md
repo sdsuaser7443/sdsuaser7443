@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Hi! I'am a Developer!
+# Hi! I'm a Developer!
 ```javascript
 var info = { 
     name: "누워서떡먹기",
