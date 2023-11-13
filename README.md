@@ -7,7 +7,7 @@ var info = {
     sublanguage: "Html/CSS, TailwindCSS",
     thelanguageiamlearning: "React, NextJS",
      // (HTML and CSS are also programming languages. hehehe)
-    contact: "Discord:누워서떡먹기#5883, Mail:yiu7490@gmail.com",
+    contact: "Discord:nutteok, Mail:yiu7490@gmail.com",
     aboutme: "I'm an ordinary student developer!"
 }
 ```
